@@ -1,0 +1,10 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+.site-layout-content {
+  height: 100vh;
+  padding: 24px;
+  background: #fff;
+}

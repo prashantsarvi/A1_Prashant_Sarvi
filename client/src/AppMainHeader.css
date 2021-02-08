@@ -1,0 +1,12 @@
+.app-header {
+    float: left;
+    color: white;
+    min-height: 60px;
+    background: #ad4b13;
+    padding: 10px 20px 0px;
+}
+
+.app-header .nav-list {
+    text-align: center;
+    background-color: 001a1a;
+}

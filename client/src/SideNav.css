@@ -1,0 +1,10 @@
+@media screen and (max-width: 600px) {
+    .app-side-nav {
+      visibility: hidden;
+      clear: both;
+      float: left;
+      margin: 0px;
+      width: 28%;
+      display: none;
+    }
+  }
